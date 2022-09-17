@@ -1,0 +1,57 @@
+ 
+ 
+ 
+----------------------------------------------------------------- 
+INFO: Starting batch at 20210322:132610 
+----------------------------------------------------------------- 
+ 
+DEBUG: Current Dir is D:\Server\enig 6 -- trying to change to D:\Scripts\enigmatica\ 
+INFO: Checking that settings.cfg exists 
+ERROR: Error flagged, reason is: "Settings.cfg_Not_Found" 
+WARN: Server startup script is exiting. Dumping current vars: 
+DEBUG: MC_SERVER_MAX_RAM= 
+DEBUG: MC_SERVER_FORGE_JAR= 
+DEBUG: MC_SERVER_SPONGE_BOOT= 
+DEBUG: MC_SERVER_JVM_ARGS= 
+DEBUG: MC_SERVER_MAX_CRASH= 
+DEBUG: MC_SERVER_CRASH_TIMER= 
+DEBUG: MC_SERVER_IGNORE_OFFLINE= 
+DEBUG: MC_SERVER_RUN_FROM_BAD_FOLDER= 
+DEBUG: MC_SERVER_MCVER= 
+DEBUG: MC_SERVER_FORGEVER= 
+DEBUG: MC_SERVER_FORGESHORT= 
+DEBUG: MC_SERVER_FORGEURL= 
+DEBUG: MC_SERVER_HIGH_PRIORITY= 
+DEBUG: MC_SERVER_SPONGE= 
+DEBUG: MC_SERVER_PACKNAME= 
+DEBUG: MC_SERVER_SPONGEURL= 
+DEBUG: MC_SERVER_SPONGEBOOTSTRAPURL= 
+DEBUG: MC_SERVER_ERROR_REASON=Settings.cfg_Not_Found 
+DEBUG: MC_SERVER_TMP_FLAG=0 
+DEBUG: MC_SERVER_CRASH_COUNTER=1 
+DEBUG: MC_SERVER_CRASH_YYYYMMDD=20210322 
+DEBUG: MC_SERVER_CRASH_HHMMSS=132610 
+DEBUG: Current directory file listing: 
+ Volume in drive D is Ana Dosyalar
+ Volume Serial Number is B854-610A
+
+ Directory of D:\Scripts\enigmatica
+
+03/22/2021  01:26 PM    <DIR>          .
+03/22/2021  01:26 PM    <DIR>          ..
+03/22/2021  01:26 PM    <DIR>          logs
+03/22/2021  01:25 PM            45,942 sa.bat
+03/22/2021  10:44 AM               384 startsv.ahk
+03/22/2021  11:15 AM               425 stopsv.ahk
+               3 File(s)         46,751 bytes
+               3 Dir(s)  162,376,589,312 bytes free
+DEBUG: JAVA version output (java -d64 -version): 
+java version "1.8.0_281"
+Java(TM) SE Runtime Environment (build 1.8.0_281-b09)
+Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode)
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+0 out of 0 jobs canceled.
